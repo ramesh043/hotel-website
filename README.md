@@ -1,6 +1,6 @@
 # Main Page Code 
 ### Home Page in index.html
-```
+``` html
 <!DOCTYPE html>
 <html lang="en">
   <head>
